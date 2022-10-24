@@ -1,8 +1,9 @@
-
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  
+  ### :wave: Kenneth here!
+  
+  <br>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/kenneth-diputado-b84304210/" target="_blank">
@@ -31,9 +32,10 @@
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennethdiputado&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdiputado&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethdiputado&show_icons=true&theme=radical)
 
 ---
 
