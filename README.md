@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**kennethdiputado/kennethdiputado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <a href="https://sellerinvestigators.com">Seller Investigators</a>
 - 🌱 I’m currently learning Laravel, VueJS and React.
 <!-- - 👯 I’m looking to collaborate on ...
