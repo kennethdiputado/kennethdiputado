@@ -33,6 +33,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennethdiputado&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdiputado&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :hammer: Language and Tools :
