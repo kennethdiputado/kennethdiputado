@@ -54,8 +54,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-kenneth.vercel.app/api?username=kennethdiputado&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdiputado&size_weight=0.5&count_weight=0.5)
-
 ---
 
 <!--START_SECTION:activity-->
