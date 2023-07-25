@@ -31,14 +31,6 @@
 
 ---
 
-### :fire: Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennethdiputado&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethdiputado&show_icons=true&theme=radical)
-
----
-
 ### :hammer: Language and Tools :
 
 <div>
@@ -53,4 +45,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="50" height="50"/>        
 </div>
+
+---
+
+### :fire: Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kennethdiputado&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethdiputado&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethdiputado&size_weight=0.5&count_weight=0.5)
+
 
